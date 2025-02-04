@@ -1,22 +1,14 @@
+天南海北，因为热爱，我们齐聚一堂，一起搓点不一样的东西，中间忘了，后面的也忘了，总之CQMUA欢迎您。
+# 我们联合
+
 ## 开发内容
-
-来看看我们开发了什么叭
-
+来看看我们开发了都什么叭
 ### CQMUA Server Center
-
-CQMUA服务器中心用于查询MC服务器在线人数，使用的插件、模组，api提供方为https://mcstatus.io/
-
-详情查看：
-
+[[CQMUA服务器中心](https://github.com/CQMUA/CQMUA-MC-ServerCenter)用于查询MC服务器在线人数，使用的插件、模组，api提供方为 https://mcstatus.io/
 生产环境：https://server.cqmua.cn/
-
 预发布环境(未开通）
-
 负责人：
-
 - CYMC-rand777
-
-
 
 ---
 
