@@ -2,13 +2,13 @@
 
 # 我们联合
 
-更新日期：2025-02-05
+更新日期：2025-02-08
 
 
 | 项目（点击跳转）                                             | 生产环境地址                 | 预发布环境地址               | 负责人            | 备注                                                         |
 | ------------------------------------------------------------ | ---------------------------- | ---------------------------- | ----------------- | ------------------------------------------------------------ |
-| [CQMUA Passport](https://github.com/CQMUA#cqmua-passport)    | https://p.mpsmc.cn/          | 未定                         | CYMC-sectly       | 原创，react+kotlin，cqmua.cn域名备案完成后迁移               |
-| [CQMUA Account](https://github.com/CQMUA#cqmua-account)      | 未定                         | 未定                         | CYMC-sectly       | 原创，react+kotlin，cqmua.cn域名备案完成后迁移               |
+| [CQMUA Passport](https://github.com/CQMUA#cqmua-passport)    | https://p.mpsmc.cn/          | 未定                         | CYMC-sectly       | 原创，react+kotlin，计划挂载在重医服务器                     |
+| [CQMUA Account](https://github.com/CQMUA#cqmua-account)      | 未定                         | 未定                         | CYMC-sectly       | 原创，react+kotlin，计划挂载在重医服务器                     |
 | [CQMUA Server Center](https://github.com/CQMUA#cqmua-server-center) | https://server.cqmua.cn/     | https://server.cqmua.cn/     | CYMC-rand777      | 原创，Vue3+Vite+Element Plus，管它什么MIT协议，随便用        |
 | [CQMUA Skin](https://github.com/CQMUA#cqmua-skin)            | cqmua.cn域名迁移中，暂不可用 | cqmua.cn域名迁移中，暂不可用 | CYMC-rand777      | Forked from [blessing skin](https://github.com/bs-community) with MIT license ,modified plugins are powered by [MUA](https://www.mualliance.cn/) |
 | [CQMUA Front](https://github.com/CQMUA#cqmua%E5%AE%98%E7%BD%91) | https://wiki.cqmua.cn/       | 未定                         | SWUMC-Marcood2022 | Forked from [vitepress](https://github.com/vuejs/vitepress) with MIT license，根域名及www.cqmua.cn备案完成后迁移 |
