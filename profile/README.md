@@ -64,7 +64,3 @@
 ### CQMUA Front
 
 > 
-
-# 友情链接
-
-[闽高联github](https://github.com/FJMUA)
