@@ -11,7 +11,7 @@
 | [CQMUA Account](https://github.com/CQMUA#cqmua-account)      | https://cas.mc.cqmu.edu.cn                         | 未定                         | CYMC-sectly       | 原创，react+kotlin，计划挂载在重医服务器                     |
 | [CQMUA Server Center](https://github.com/CQMUA#cqmua-server-center) | https://server.cqmua.cn/     | https://server.cqmua.cn/     | CYMC-rand777      | 原创，Vue3+Vite+Element Plus，管它什么MIT协议，随便用        |
 | [CQMUA Skin](https://github.com/CQMUA#cqmua-skin)            | cqmua.cn域名迁移中，暂不可用 | cqmua.cn域名迁移中，暂不可用 | CYMC-rand777      | Forked from [blessing skin](https://github.com/bs-community) with MIT license ,modified plugins are powered by [MUA](https://www.mualliance.cn/) |
-| [CQMUA 官网](https://github.com/CQMUA#cqmua%E5%AE%98%E7%BD%91) | https://www.cqmua.cn/       | [Vercel Serverless](https://cqmua-site.vercel.app/)                         | SWUMC-Marcood2022 | Forked from [vuepress](https://github.com/vuejs/vitepress) with MIT license，根域名及www.cqmua.cn备案完成后迁移 |
+| [CQMUA 官网](https://github.com/CQMUA#cqmua%E5%AE%98%E7%BD%91) | https://www.cqmua.cn/       | https://3w.cqmua.cn/                      | SWUMC-Marcood2022 | Forked from https://vuepress.vuejs.org/ with MIT license，根域名及www.cqmua.cn备案完成后迁移 |
 
 
 ## 开发内容
@@ -61,6 +61,5 @@
 
 ---
 
-### CQMUA Front
 
 > 
