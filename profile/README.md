@@ -9,8 +9,8 @@
 | ------------------------------------------------------------ | ---------------------------- | ---------------------------- | ----------------- | ------------------------------------------------------------ |
 | [CQMUA Passport](https://github.com/CQMUA#cqmua-passport)    | https://passport.cqmu.edu.cn         | https://p.mpsmc.cn/          | CYMC-sectly       | 原创，react+kotlin，计划挂载在重医服务器                     |
 | [CQMUA Account](https://github.com/CQMUA#cqmua-account)      | https://cas.mc.cqmu.edu.cn                         | 未定                         | CYMC-sectly       | 原创，react+kotlin，计划挂载在重医服务器                     |
-| [CQMUA Server Center](https://github.com/CQMUA#cqmua-server-center) | https://server.cqmua.cn/     | https://server.cqmua.cn/     | CYMC-rand777      | 原创，Vue3+Vite+Element Plus，管它什么MIT协议，随便用        |
-| [CQMUA Skin](https://github.com/CQMUA#cqmua-skin)            | cqmua.cn域名迁移中，暂不可用 | cqmua.cn域名迁移中，暂不可用 | CYMC-rand777      | Forked from [blessing skin](https://github.com/bs-community) with MIT license ,modified plugins are powered by [MUA](https://www.mualliance.cn/) |
+| [CQMUA Server Center](https://github.com/CQMUA#cqmua-server-center) | https://server.cqmua.cn     | https://server.cqmua.cn/     | CYMC-rand777      | 原创，Vue3+Vite+Element Plus，管它什么MIT协议，随便用        |
+| [CQMUA Skin](https://github.com/CQMUA#cqmua-skin)            | http://skin.cqmua.cn | http://skin.cqmua.cn/preview | CYMC-rand777      | Forked from [blessing skin](https://github.com/bs-community) with MIT license ,modified plugins are powered by [MUA](https://www.mualliance.cn/) |
 | [CQMUA 官网](https://github.com/CQMUA#cqmua%E5%AE%98%E7%BD%91) | https://www.cqmua.cn/       | https://3w.cqmua.cn/                      | SWUMC-Marcood2022 | Forked from https://vuepress.vuejs.org/ with MIT license，根域名及www.cqmua.cn备案完成后迁移 |
 
 
@@ -20,7 +20,7 @@
 
 ### CQMUA Passport
 
-> 生产环境：https://p.mpsmc.cn/
+> 生产环境：https://passport.mc.cqmu.edu.cn
 >
 > 预发布环境（未开通）
 >
@@ -32,9 +32,11 @@
 
 ### CQMUA Account
 
-> TODO
-
-
+> 生产环境：https://oauth.mc.cqmu.edu.cn
+>
+> 预发布环境（未开通）
+>
+> 负责人：CYMC-sectly
 
 ---
 
@@ -42,9 +44,7 @@
 
 > 简介：[CQMUA服务器中心](https://github.com/CQMUA/CQMUA-MC-ServerCenter)用于查询MC服务器在线人数，使用的插件、模组，api提供方为 https://mcstatus.io/
 >
-> 生产环境：https://server.cqmua.cn/
->
-> 预发布环境(未开通）
+> 生产环境：https://server.cqmua.cn
 
 负责人：CYMC-rand777
 
@@ -56,6 +56,8 @@
 ### CQMUA SKin
 
 > 简介：MUA联合大厅技术目前使用Blessing Skin，CQMUA使用该皮肤站进行认证。插件由MUA提供
+>
+> 生产环境：https://skin.cqmua.cn
 
 
 
