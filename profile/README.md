@@ -58,7 +58,7 @@
 >
 > 生产环境：https://skin.cqmua.cn
 
-
+> 负责人：CQUST-Echoker
 
 ---
 
