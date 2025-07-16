@@ -12,6 +12,7 @@
 | [CQMUA Skin](https://github.com/CQMUA#cqmua-skin)            | http://skin.cqmua.cn |  | CQUST-echoker      | Forked from [blessing skin](https://github.com/bs-community) with MIT license ,modified plugins are powered by [MUA](https://www.mualliance.cn/) |
 | [CQMUA 官网](https://github.com/CQMUA#cqmua%E5%AE%98%E7%BD%91) | https://www.cqmua.cn       | https://3w.cqmua.cn                      | CQUST-echoker | Forked from [Plume Theme](https://theme-plume.vuejs.press/) with MIT license|
 | CQMUA Wiki|http://wiki.cqmua.cn/|https://wiki.macrodd.cn/|SWUMC-Macrodd2022|CQMUA 维基百科|
+| [CQMUA PCL2]()|||
 ## 开发内容
 
 > 来看看我们都开发了些什么叭(😀)
@@ -37,15 +38,17 @@ CQMUA 官网
 > 简介：[CQMUA服务器中心](https://github.com/CQMUA/CQMUA-MC-ServerCenter)用于查询MC服务器在线人数，使用的插件、模组，api提供方为 https://mcstatus.io/
 >
 > https://server.cqmua.cn
+> 负责人：CYMC-rand777
 
-负责人：CYMC-rand777
+
 
 ---
 
 ### CQMUA SKin
 
+https://skin.cqmua.cn
+
 > 简介：MUA联合大厅技术目前使用Blessing Skin，CQMUA使用该皮肤站进行认证。插件由MUA提供
->
 > https://skin.cqmua.cn
 
 > 负责人：CQUST-Echoker
